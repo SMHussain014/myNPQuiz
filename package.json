@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SMHussain014/myNPCalculator.git"
+    "url": "git+https://github.com/SMHussain014/myNPQuiz.git"
   },
   "keywords": [
     "quiz",
@@ -20,9 +20,9 @@
   "author": "Syed Muhammad Hussain",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SMHussain014/myNPCalculator/issues"
+    "url": "https://github.com/SMHussain014/myNPQuiz.git/issues"
   },
-  "homepage": "https://github.com/SMHussain014/myNPCalculator#readme",
+  "homepage": "https://github.com/SMHussain014/myNPQuiz.git#readme",
   "devDependencies": {
     "@types/chalk": "^2.2.0",
     "@types/inquirer": "^9.0.3",
